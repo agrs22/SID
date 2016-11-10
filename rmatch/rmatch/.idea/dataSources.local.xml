@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - rmatch@localhost" uuid="a1976e79-4c32-4af3-8a43-38e9172e7658">
+      <database-info product="PostgreSQL" version="9.2.4" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>agrs22</user-name>
+      <introspection-scope>rmatch:public,pg_catalog,agrs22</introspection-scope>
+      <resolve-scope>rmatch:public,agrs22</resolve-scope>
+    </data-source>
+  </component>
+</project>
